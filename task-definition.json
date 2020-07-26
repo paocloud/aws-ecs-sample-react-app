@@ -6,9 +6,6 @@
         {
             "name": "aws-ecs-sample-react-app",
             "image": "921418220591.dkr.ecr.ap-southeast-1.amazonaws.com/aws-ecs-sample-react-app:latest",
-            "cpu": 0,
-            "memory": 0,
-            "memoryReservation": 0,
             "portMappings": [
                 {
                     "containerPort": 80,
