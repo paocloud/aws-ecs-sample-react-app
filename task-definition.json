@@ -5,7 +5,7 @@
     "networkMode": "host",
     "containerDefinitions": [
         {
-            "name": "",
+            "name": "aws-ecs-sample-react-app",
             "image": "",
             "repositoryCredentials": {
                 "credentialsParameter": ""
